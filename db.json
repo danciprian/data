@@ -9,6 +9,11 @@
             "index": 2,
             "day": "Tuesday",
             "temperature": 19
+        },
+        {
+            "index": 3,
+            "day": "Friday",
+            "temperature": 23
         }
     ]
 }
