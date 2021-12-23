@@ -1,0 +1,14 @@
+[
+    {
+        "index": 1,
+        "day": "Monday",
+        "temperature": 23.5,
+        "humidity": 55
+    },
+    {
+        "index": 2,
+        "day": "Tuesday",
+        "temperature": 24.5,
+        "humidity": 52
+    }
+]
